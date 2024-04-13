@@ -243,6 +243,7 @@ figcaption, cite {
 \(theme.additionalCSS ?? "")
 
 </style>
+        </head>
 <body>
 <div id='__content' style='opacity: 0'>
     \(heroHTML)
